@@ -1,0 +1,19 @@
+# Moodley Financial — 301 Redirects for Migrated Legacy URLs
+/index.html                           /                                            301
+/home                                 /                                            301
+/about-us.html                        /                                            301
+/services.html                        /                                            301
+/contact-us.html                      /contact                                     301
+/privacy-policy                       /privacy                                     301
+/popia                                /privacy                                     301
+/news                                 /blog                                        301
+/articles                             /blog                                        301
+/services/retirement-planning.html    /services/retirement-planning                301
+/services/investment-planning.html    /services/investment-planning                301
+/services/risk-protection.html        /services/risk-protection                    301
+/services/estate-planning.html        /services/estate-planning                    301
+/services/tax-efficient-savings.html  /services/tax-efficient-savings              301
+/services/business-assurance.html     /services/business-assurance                 301
+/2026/08/estate-planning-wills        /blog/estate-planning-wills-checklist        301
+/2026/09/tax-efficient-savings        /blog/tax-efficient-savings-south-africa     301
+/2026/10/retirement-two-pot-system    /blog/retirement-planning-two-pot-guide      301
